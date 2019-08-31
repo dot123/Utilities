@@ -1,0 +1,23 @@
+﻿mongo --port=27017
+
+1.创建用户管理员
+use admin
+db.createUser(
+  {
+    user: "Admin",
+    pwd: "nwl.IH21Wyz0[Llr",
+    roles: [ { role: "userAdminAnyDatabase", db: "admin" } ]
+  }
+)
+
+2.重新启动具有访问控制的MongoDB实例
+auth=true
+3.以用户管理员身份进行连接和验证
+mongo --port 27017 -u "Admin" -p "nwl.IH21Wyz0[Llr" --authenticationDatabase "admin"
+
+4.切换到foo数据库就可以给foo数据库创建用户啦（这里有一个不大不小的坑，就是你要给其他数据库创建用户，
+都必须先到admin数据库，认证刚才新建的那个admin用户，然后再切换到其他数据库才能建立用户）！
+
+use foo;
+db.createUser({user: 'foo', pwd: 'bar', roles: [{role: 'readWrite', db: 'foo'}]})
+db.auth('foo', 'bar')

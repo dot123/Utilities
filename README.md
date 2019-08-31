@@ -15,4 +15,8 @@
 
 8.build-mipsle.sh在linux环境下编译mipsle架构cpu可执行文件。
 
+9.mysql快速安装和卸载等相关。
+
+10.mongodb快速安装和卸载等相关。
+
 https://github.com/dot123/Utilities.git
