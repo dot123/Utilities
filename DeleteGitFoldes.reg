@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\DeleteGIT]
+@="Delete GIT Folders"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\DeleteGIT\command]
+@="cmd.exe /c \"TITLE Removing GIT Folders in %1 && COLOR 9A && FOR /r \"%1\" %%f IN (.git) DO RD /s /q \"%%f\" \""

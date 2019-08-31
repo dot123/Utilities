@@ -1,0 +1,17 @@
+{
+	"shell_cmd": "D:\\WorkSpace\\HelloLua\\simulator\\win32\\HelloLua.exe",
+	"working_dir": "D:\\WorkSpace\\HelloLua",
+	"shell":true,  
+	"encoding":"gbk",  
+	"variants":  
+	[  
+		{  
+		    "name":"build",  
+		   	"shell_cmd": "D:\\WorkSpace\\HelloLua\\tools\\build.bat"
+		},  
+		{  
+		    "name":"run",  
+		   	"shell_cmd": "D:\\WorkSpace\\HelloLua\\tools\\run.bat"
+		}  
+	]  
+}

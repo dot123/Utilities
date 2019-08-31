@@ -1,0 +1,4 @@
+{
+	"cmd": ["sh","/Users/当前用户名/Documents/HelloLua/run.sh","$file"],
+	"working_dir": "/Users/当前用户名/Documents/HelloLua/",
+}
