@@ -1,3 +1,5 @@
+https://github.com/dot123/Utilities.git
+
 # Utilities
 1.cocos-sublime是cocosLua快速编译和启动工具。
 
@@ -12,5 +14,3 @@
 6.icon大小转换.js是ps插件可以快速生成各种尺寸的图标。
 
 7.图片压缩工具相关的下载链接。
-
-https://github.com/dot123/Utilities.git
