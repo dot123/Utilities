@@ -7,11 +7,11 @@
 	[  
 		{  
 		    "name":"build",  
-		   	"shell_cmd": "D:\\WorkSpace\\HelloLua\\tools\\build.bat"
+		   	"shell_cmd": "D:\\WorkSpace\\HelloLua\\build.bat"
 		},  
 		{  
 		    "name":"run",  
-		   	"shell_cmd": "D:\\WorkSpace\\HelloLua\\tools\\run.bat"
+		   	"shell_cmd": "D:\\WorkSpace\\HelloLua\\run.bat"
 		}  
 	]  
 }
