@@ -1,0 +1,25 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "workbench.sideBar.location": "left",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "files.autoSave": "off",
+    "window.zoomLevel": 0,
+    "editor.formatOnSave": true,
+    "fileheader.customMade": {
+        "Author": "conjurer",
+        "Github": "https://github.com/dot123",
+        "Date": "Do not edit",
+        "LastEditors": "conjurer",
+        "LastEditTime": "Do not edit",
+        "Description": ""
+    },
+    "fileheader.cursorMode": {
+        "description": "",
+        "param": "",
+        "return": ""
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.configPath": "C:\\Users\\qsp12\\.vscode\\prettier.json"
+}

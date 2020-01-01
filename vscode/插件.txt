@@ -1,0 +1,2 @@
+koroFileHeader 生成文件头部注释和函数注释的插件
+Prettier - Code formatter JavaScript代码格式化
