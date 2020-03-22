@@ -1,0 +1,17 @@
+{
+    "name": "obfuscator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "javascript-obfuscator": "^0.18.3",
+        "commander": "^3.0.2",
+        "mkdirp": "^0.5.1",
+        "rimraf": "^3.0.0"
+    }
+}
