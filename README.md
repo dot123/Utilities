@@ -27,4 +27,10 @@
 
 14.Spine骨骼动画查看器。
 
+15.JsonView是json编辑器。
+
+16.Hash_1.0.4是文件md5检查工具。
+
+17.PsQREdit是二维码信息编辑器。
+
 #### 项目代码https://github.com/dot123/Utilities.git
