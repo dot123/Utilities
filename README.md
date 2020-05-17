@@ -23,4 +23,6 @@
 
 12.lua-bindings是lua绑定环境配置。
 
+13.PhysicsEditor-1.0.4物理形状编辑器。
+
 #### 项目代码https://github.com/dot123/Utilities.git
