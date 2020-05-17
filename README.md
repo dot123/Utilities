@@ -20,4 +20,7 @@
 10.mongodb快速安装和卸载等相关。
 
 11.obfuscator是js文件混淆加密。
+
+12.lua-bindings是lua绑定环境配置。
+
 #### 项目代码https://github.com/dot123/Utilities.git
