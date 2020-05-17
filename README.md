@@ -25,4 +25,6 @@
 
 13.PhysicsEditor-1.0.4物理形状编辑器。
 
+14.Spine骨骼动画查看器。
+
 #### 项目代码https://github.com/dot123/Utilities.git
