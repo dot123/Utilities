@@ -33,4 +33,6 @@
 
 17.PsQREdit是二维码信息编辑器。
 
+18.TexturePackerC命令行打包图集。
+
 #### 项目代码https://github.com/dot123/Utilities.git
