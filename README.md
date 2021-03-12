@@ -35,4 +35,8 @@
 
 18.TexturePackerC命令行打包图集。
 
+19.Privoxy将socks5代理转成http代理。
+
+20.Rime小狼毫个人配置文件。
+
 #### 项目代码https://github.com/dot123/Utilities.git
